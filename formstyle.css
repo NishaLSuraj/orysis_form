@@ -1,0 +1,111 @@
+.container{
+	width:600px;
+	height:auto;
+	border: 2px solid orange;
+	margin:auto;
+	/*padding: auto;*/
+	
+}
+.logo img{
+	width:400px;
+	height: 150px;
+	padding-left: 50px;
+}
+.namestyle,.agestyle,.emailstyle,.phnstyle,.adrsstyle{
+	display: flex;
+	margin-left:50px;
+	margin-top: 10px;
+}
+.name_field {
+    width: 300px;
+    margin-left: 78px;
+}
+.exp_fre{
+	display: flex;
+    width: 400px;
+    margin-left: 46px;
+}
+.paragraph {
+    width: 28px;
+    margin-right: 28px;
+}
+.if_exp{
+    display: flex;
+    margin-left: 47px;
+    margin-top: 10px;
+}
+.fresh_field,.exp_field{
+	margin-left: 78px;
+    margin-top: 15px;
+}
+/*.adrs_field{
+	margin:auto;
+	width: 250px;
+	height: 100px;
+}*/
+.prgm{
+	display: flex;
+	margin-left: 52px;
+    margin-top: 10px;
+}
+.exp1_field,.ref_field{
+	margin:auto;
+	width: 220px;
+    height: 100px;
+}
+.prgm_field,.course_field{
+     margin-top: 10px;
+    margin-left: 71px;
+}
+
+.course,.if_ref{
+	display: flex;
+	margin-left:50px;
+	margin-top: 10px;
+}
+.date_sig{
+	margin-left:50px;
+	margin-top: 10px;
+}
+
+.logo1 img{
+    margin-left: 40px;
+	width: 250px;
+	height:50px;
+	margin-top: 10px;
+}
+.logo1 p{
+	margin-left: 40px;
+	font-size: 12px;
+
+}
+.fclass{
+	height:300px;
+	background-color:orange;
+	margin-top:30px;
+}
+.contact_main{
+	display: flex;
+	margin-top: 20px;
+	justify-content: space-between;
+}
+.contact{
+	margin-left: 50px;
+	line-height: 1;
+	color: white;
+	font-weight: bold;
+}
+.icon_contact{
+	margin-top: 3px;
+	height: 315px;
+    width: 250px;
+    text-align: center;
+    color: white;
+	font-weight: bold;
+}
+.icon_contact img{
+	height: 48px;
+    width: 47px;
+    padding: 5px;
+
+}
